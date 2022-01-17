@@ -1,6 +1,6 @@
 # Linguistix Language Detection 
 
-A lightweight microservice for Language Detection using Apache OpenNLP and Spring Boot. The official Apache OpenNLP Language Detector Model is used and therefore no additional training traning steps are required.
+A lightweight microservice for Language Detection using Apache OpenNLP and Spring Boot. The official Apache OpenNLP Language Detector Model is used and therefore no additional training steps are required.
 
  
 ### Language Detector

@@ -2,6 +2,13 @@
 
 <!--- next entry here -->
 
+## 0.2.2
+2022-01-17
+
+### Fixes
+
+- Updated README.md (d26f300d8fa50f5dbe233717f51243c3dfe9ef98)
+
 ## 0.2.1
 2022-01-17
 

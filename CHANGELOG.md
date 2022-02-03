@@ -2,6 +2,13 @@
 
 <!--- next entry here -->
 
+## 0.2.3
+2022-02-03
+
+### Fixes
+
+- Removed required body from healthcheck (4d78866449a4be35e7e4e8b2391bade4671ab3b9)
+
 ## 0.2.2
 2022-01-17
 

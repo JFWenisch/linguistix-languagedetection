@@ -16,7 +16,7 @@ import opennlp.tools.langdetect.Language;
 public class Controller {
 
 	@GetMapping( path = "/")
-	public ResponseEntity<?> healthCHeck(@RequestBody LanguageDetectionRequest input) 
+	public ResponseEntity<?> healthCHeck() 
 			throws Exception 
 	{
 		 return new ResponseEntity<>(null, HttpStatus.OK);
